@@ -1,0 +1,5 @@
+# Huntr Cleanr
+
+## Discussion
+I use Huntr for... well... exactly what it's meant for.
+However, there's a large pile of old job applications that is steadily getting taller. I usually let my applications smolder for about 2 months before I drop them into the "No Response" category. Huntr doesn't have any tool (as far as I can tell) to move around a lot of applications at once. I'm typically adding 25 applications every week and that means every week I have 25 applications to shift from Applied to No Response. It's tedious to click and drag from the far left field to the far right field, even more tedious having to wait on the page to update on every drag. I don't like it. Time to automate it. This will be my first automated web-crawler robot thing. Please forgive any funny ideas or practices.
